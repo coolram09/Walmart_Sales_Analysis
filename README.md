@@ -1,4 +1,4 @@
-# Walmart Sales Analysis: End-to-End SQL + Python Project 
+# Walmart Sales Analysis:  SQL + Python Project 
 
 ## Project Overview
 
